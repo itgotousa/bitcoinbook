@@ -1,0 +1,54 @@
+<svg version="1.1" width="600" height="147" xmlns="http://www.w3.org/2000/svg" >
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+<path id="bottomxline" d="M 10 146 h 580" stroke="#FFFFFF" stroke-width="1" fill="none" />
+<rect x="160" y="5" width="280" height="121" style="fill:none;stroke:#0000FF;stroke-width:1" stroke-dasharray="3,3"/>
+<g transform="translate(0, 0)">
+<g transform="translate(175, 10)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">k0</text>
+</g>
+<g transform="translate(275, 10)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">K0</text>
+</g>
+<g transform="translate(375, 10)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">A0</text>
+</g>
+<path d="M 227 25 h 36" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 327 25 h 36" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+</g>
+
+<g transform="translate(0, 40)">
+<g transform="translate(175, 10)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">k1</text>
+</g>
+<g transform="translate(275, 10)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">K1</text>
+</g>
+<g transform="translate(375, 10)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">A1</text>
+</g>
+<path d="M 227 25 h 36" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 327 25 h 36" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+</g>
+<g transform="translate(0, 80)">
+<g transform="translate(175, 10)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">k2</text>
+</g>
+<g transform="translate(275, 10)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">K2</text>
+</g>
+<g transform="translate(375, 10)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">A2</text>
+</g>
+<path d="M 227 25 h 36" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 327 25 h 36" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+</g>
+</svg>
