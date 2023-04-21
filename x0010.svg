@@ -1,0 +1,51 @@
+<svg version="1.1" width="600" height="176" xmlns="http://www.w3.org/2000/svg" >
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+<path id="bottomxline" d="M 10 175 h 580" stroke="#FFFFFF" stroke-width="1" fill="none" />
+<circle cx="100" cy="100" r="20" fill="none" stroke="#0000FF" stroke-width="1" />
+<text x="88" y="105" style="font-size:13px;font-family:'Microsoft Yahei'">种子</text>
+<path d="M 122 100 H 138" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<g transform="translate(150, 85)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="15" y="20" style="font-size:13px;font-family:'Arial'">MK</text>
+</g>
+<path d="M 202 100 H 238" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<g transform="translate(250, 45)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">k0</text>
+</g>
+<g transform="translate(250, 85)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">k0</text>
+</g>
+<g transform="translate(250, 125)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">k0</text>
+</g>
+
+<g transform="translate(350, 45)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">K0</text>
+</g>
+<g transform="translate(450, 45)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">A0</text>
+</g>
+
+<g transform="translate(350, 85)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">K0</text>
+</g>
+<g transform="translate(450, 85)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">A0</text>
+</g>
+
+<g transform="translate(350, 125)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">K0</text>
+</g>
+<g transform="translate(450, 125)">
+<rect x="0" y="0" width="50" height="31" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="18" y="20" style="font-size:13px;font-family:'Arial'">A0</text>
+</g>
+</svg>
